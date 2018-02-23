@@ -1,11 +1,11 @@
 # README #
 
-STAR WARS APP WITH SWAPI API
+React Redux Setup
 
 ### FEATURES ###
 
-* LOGIN WITH REDUX-FORM
-* TYPE-ALONG SEARCH WITH DEBOUCE AND THROTTLE
+* React Redux Webpack Setup
+* Test Setup
 
 ### How do I get set up? ###
 
@@ -15,12 +15,6 @@ STAR WARS APP WITH SWAPI API
 * npm run build:dev [for dev]
 * npm start
 * npm test [for tests]
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
