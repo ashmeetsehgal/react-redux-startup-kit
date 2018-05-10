@@ -4,7 +4,7 @@ React Redux Setup
 
 ### FEATURES ###
 
-* React Redux Webpack Setup
+* React Webpack Setup
 * Test Setup
 
 ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
