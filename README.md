@@ -1,6 +1,6 @@
 # README #
 
-React Redux Setup
+React Setup
 
 ### FEATURES ###
 
